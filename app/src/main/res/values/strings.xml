@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">登山モード</string>
+    <string name="tile_on">ロックなし</string>
+    <string name="tile_off">通常</string>
+    <string name="tile_no_permission">権限が未付与</string>
+</resources>
